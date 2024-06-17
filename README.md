@@ -40,11 +40,16 @@ Here is an example of how the program works:
 - HTML table on the page updates to show all entered employees' data in alphabetical order by last name.
 
 Screenshots of live Page:
-![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%201.59.32 PM.png)
-![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.03 PM.png)
-![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.15 PM.png)
-![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.24 PM.png)
-![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.38 PM.png)
+
+![first box](Assets/images/Screenshot%202024-06-17%20at%201.59.32 PM.png)
+
+![2nd box](Assets/images/Screenshot%202024-06-17%20at%202.00.03 PM.png)
+
+![3rd box](Assets/images/Screenshot%202024-06-17%20at%202.00.15 PM.png)
+
+![HTML graph](Assets/images/Screenshot%202024-06-17%20at%202.00.24 PM.png)
+
+![console log](Assets/images/Screenshot%202024-06-17%20at%202.00.38 PM.png)
 
 
 Link to live page: [Link to payroll tracker](https://natale565.github.io/payroll-tracker/)
