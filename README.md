@@ -1,8 +1,5 @@
 # payroll-tracker
 
-Certainly! Below is a README file that explains the JavaScript code provided:
-
----
 
 # Employee Payroll Tracker
 
@@ -20,19 +17,19 @@ This JavaScript code allows users to manage employee data interactively through 
 
 ## Usage
 
-To use the program:
+To use the payrole tracker:
 
-1. Open the web page where this script is embedded.
+1. Open the Payrole Tracker web page.
 2. Click the "Add Employees" button to start adding employees.
 3. For each employee, enter their first name, last name, and salary when prompted.
 4. After adding employees, the program will display their data in the console and calculate the average salary.
 5. It will also select a random employee and display a message in the console.
 6. To stop prompts, user can click the cancel button to stop loop.
-6. Finally, it will display all employees' data in an HTML table on the web page.
+6. Finally, it will display all employees' data in an HTML table on the web page in alphabetical order by last name.
 
 ## Example
 
-Here's an example of how the program works:
+Here is an example of how the program works:
 
 - User clicks "Add Employees" button.
 - Prompts appear for user to enter employee details (first name, last name, salary).
@@ -41,6 +38,16 @@ Here's an example of how the program works:
 - Program selects a random employee and displays a congratulatory message.
 - User clicks cancel when asked if they would like to add another employee.
 - HTML table on the page updates to show all entered employees' data in alphabetical order by last name.
+
+Screenshots of live Page:
+![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%201.59.32 PM.png)
+![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.03 PM.png)
+![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.15 PM.png)
+![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.24 PM.png)
+![screenshot of live portfolio website](Assets/Images/Screenshot%202024-06-17%20at%202.00.38 PM.png)
+
+
+Link to live page: [Link to payroll tracker](https://natale565.github.io/payroll-tracker/)
 
 
 This README provides a brief overview of what the script does, how to use it, and what to expect when interacting with it.
